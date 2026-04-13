@@ -12,4 +12,4 @@ The paper explores the role of spring caterpillar abundance in buffering the neg
 Data consist of caterpillar abundance data (XXX) and bird breeding performance data (XXX) from 14 sites across England, collected over the 15-year period from 2008-2023. MetOffice HadUK data are also required for site temperature analyses, but these are not provided directly here. Files covering the complete period April-June for all site by year combinations are required (see XXX.temperature_extraction.R), and can be obtained directly from the MetOffice.
 
 ## Workflow pipeline
-1.
+This pipeline contains the analytical milestones needed to recreate the results of this study. It does not contain code used for data visualisation (e.g. predictions and plotting), preferences for which will vary.
