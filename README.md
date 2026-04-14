@@ -16,7 +16,7 @@ Geolocations of study sites are also included (site_locations.csv).
 ## Workflow pipeline
 This pipeline contains the analytical milestones needed to recproduce the results of this study. It does not contain code used for data visualisation (e.g. predictions and plotting), preferences for which will vary.
 
-Step 1: '1_frass_modelling.R'
+Step 1: `1_frass_modelling.R`
 
 ## Rights
 The authors reserve all rights to the data, which cannot be utilised in whole or in part without their prior consent.
