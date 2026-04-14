@@ -16,14 +16,14 @@ Geolocations of study sites are also included (`site_locations.csv`).
 ## Workflow pipeline
 This pipeline contains the analytical milestones needed to recproduce the results of this study. It does not contain code used for data visualisation (e.g. predictions and plotting), preferences for which will vary.
 
-**Step 1** `1_frass_modelling.R` : Estimating the caterpillar peak date and height (i.e. peak caterpillar biomass) in each site by year combination across available data. 
-**Step 2** `2_temperature_data_extraction` : Extract interpolated MetOffice temperature data for spring in each site by year combination relevant to our dataset.
-**Step 3** `3_temperature_variation_modelling` : Model variation in spring temperature across all sites over time.
-**Step 4** `4_bird_data_processing_and_mismatch_estimation` : Collate bird breeding performance data across sites and years, pairing data with relevant cateprillar abundance data and estimating trophic mismatch at the nest-level (i.e. difference in timing between peak chick demand within a nest and date of peak caterpillar abundance.
-**Step 5** `5_temperature_effects_on_mismatch` : Model the relationship between temperature and trophic mismatch in three target bird species.
-**Step 6** `6_bird_breeding_performance_modelling` : Model the effects of mismatch and caterpillar abundance on breeding performance across three target bird species.
-**Step 7** `7_variance_component_estimation` : Estimate variance components for all relevant models, (i) temperature variation, (ii) temperature-mismatch relationship, (iii) effects of mismatch and resource abundance on bird breeding performance.
-**Step 8** `8_forecast_mismatch_productivity_under_climate_change` : Rough forecast of mismatch under climate change based on modelled relationship, for Table 2. 
+- **Step 1** `1_frass_modelling.R` : Estimating the caterpillar peak date and height (i.e. peak caterpillar biomass) in each site by year combination across available data. 
+- **Step 2** `2_temperature_data_extraction` : Extract interpolated MetOffice temperature data for spring in each site by year combination relevant to our dataset.
+- **Step 3** `3_temperature_variation_modelling` : Model variation in spring temperature across all sites over time.
+- **Step 4** `4_bird_data_processing_and_mismatch_estimation` : Collate bird breeding performance data across sites and years, pairing data with relevant cateprillar abundance data and estimating trophic mismatch at the nest-level (i.e. difference in timing between peak chick demand within a nest and date of peak caterpillar abundance.
+- **Step 5** `5_temperature_effects_on_mismatch` : Model the relationship between temperature and trophic mismatch in three target bird species.
+- **Step 6** `6_bird_breeding_performance_modelling` : Model the effects of mismatch and caterpillar abundance on breeding performance across three target bird species.
+- **Step 7** `7_variance_component_estimation` : Estimate variance components for all relevant models, (i) temperature variation, (ii) temperature-mismatch relationship, (iii) effects of mismatch and resource abundance on bird breeding performance.
+- **Step 8** `8_forecast_mismatch_productivity_under_climate_change` : Rough forecast of mismatch under climate change based on modelled relationship, for Table 2. 
 
 ## Rights
 The authors reserve all rights to the data, which cannot be utilised in whole or in part without their prior consent.
