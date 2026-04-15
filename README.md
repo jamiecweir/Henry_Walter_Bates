@@ -1,4 +1,4 @@
-<img width="408" height="424" alt="image" src="https://github.com/user-attachments/assets/9e67a1e5-8daf-4b2a-a1ca-125b91bf4ba0" />
+<img width="408" height="424" alt="image" src="https://github.com/user-attachments/assets/e36d95d1-48c9-4973-81b2-99836ed2b099" />
 
 
 Henry Walter Bates (1825-1892)  
