@@ -2,7 +2,7 @@
 
 
 Henry Walter Bates (1825-1892)  
-
+---
 # Resource abundance can buffer trophic mismatch in a caterpillar-passerine food-chain
 This repository contains the data and analytical pipeline for Weir et al. (2026). Resource abundance can buffer trophic mismatch in a caterpillar-passerine food-chain. PREPRINT CITATION. 
 
