@@ -16,7 +16,7 @@ MetOffice HadUK data are required for site temperature analyses, but the base da
 Geolocations of study sites are also included (`site_locations.csv`).
 
 ## Workflow pipeline
-This pipeline contains the analytical milestones needed to recproduce the results of this study. It does not contain code used for data visualisation (e.g. predictions and plotting), preferences for which will vary.
+This pipeline contains the analytical milestones needed to reproduce the results of this study. It does not contain code used for data visualisation (e.g. predictions and plotting), preferences for which will vary.
 
 - **Step 1** `1_frass_modelling.R` : Estimating the caterpillar peak date and height (i.e. peak caterpillar biomass) in each site by year combination across available data. 
 - **Step 2** `2_temperature_data_extraction.R` : Extract interpolated MetOffice temperature data for spring in each site by year combination relevant to our dataset.
