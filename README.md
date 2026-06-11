@@ -6,7 +6,7 @@ Henry Walter Bates (1825-1892)
 ---
 
 # Resource abundance can buffer trophic mismatch in a caterpillar-passerine food-chain
-This repository contains the data and analytical pipeline for Weir et al. (2026). Resource abundance can buffer trophic mismatch in a caterpillar-passerine food-chain. PREPRINT CITATION *pending*. 
+This repository contains the data and analytical pipeline for Weir et al. (2026). Resource abundance can buffer trophic mismatch in a caterpillar-passerine food-chain. EcoEvoRxiv. https://doi.org/10.32942/X2KD4J. 
 
 The paper explores the role of spring caterpillar abundance in buffering the negative fitness consequences of phenological mismatch with the timing of peak abundance for three species of passerine birds. In the workflow, we analyse caterpillar abundance across spring and estimate the timing and magnitude of peak abundance over 14 sites and 15 years. We estimate the breeding performance of three woodland passerine species, and relate this to different aspects of the spring caterpillar peak, principally timing and height. We also consider the relationship between phenological mismatch and temperature in this caterpillar-bird system.
 
